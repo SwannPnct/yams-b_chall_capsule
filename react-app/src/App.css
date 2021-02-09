@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+
+table {
+  border-collapse: collapse;
+  text-align: center;
+}
+
+td:first-child {
+  background-color: lightslategray;
+}
+
+td {
+  border: 1px solid black;
+  min-width: 100px;
+}
+
